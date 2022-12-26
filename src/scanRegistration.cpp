@@ -38,7 +38,7 @@
 #include "aloam_velodyne/tic_toc.h"
 #include <cmath>
 #include <nav_msgs/Odometry.h>
-#include <opencv/cv.h>
+// #include <opencv/cv.h>
 #include <pcl/filters/voxel_grid.h>
 #include <pcl/kdtree/kdtree_flann.h>
 #include <pcl/point_cloud.h>
